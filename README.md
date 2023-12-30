@@ -1,4 +1,4 @@
 # Git_tutorial
-Steps to learn Git 
+<p><style="font-weight:bold;">Steps to learn Git</style></p>
 <br>
 Author - Abhishek 
